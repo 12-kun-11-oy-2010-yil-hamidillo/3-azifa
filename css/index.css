@@ -1,0 +1,105 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    width: 100%;
+     height: 100%;
+}
+body{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    justify-content: center; 
+    align-items: center;
+}
+.hamidillo {
+    color: #000;
+    padding: 8px 26px;
+    border-top-right-radius: 6px;
+    background-color: #39cdcc;
+    display: inline-block;
+    transform: rotate(90deg);
+    position: fixed;
+    top: 142px;
+    left: -56px;
+}
+.div
+.b{
+    padding: 5px 10px;
+    color: #fff;
+    margin: 440px 0 400px 0;
+    background-color: rgb(18, 52, 86);
+    display: inline-block;
+}
+.box-1 {
+    width: 100%;
+    max-width: 3997px;
+    background-image: url("../images/jpg/Paralax-image_one.jpg");
+    block-size: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.dfg{
+    background-color:#fff;
+}
+.dfgt{
+    padding:0 0 20px 0;
+    color: #fff;
+    background-color: rgb(18, 52, 86);
+}
+.asx{
+    padding: 10px;
+}
+.asdfg{
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: rgb(18, 52, 86);
+}
+.klj{
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: rgb(18, 52, 86);
+}
+.box-2 {
+    background-image: url("../images/jpg/Paralax-image_two.jpg");
+    background-attachment: fixed;
+    width: 100%;
+    max-width: 3997px;
+    block-size: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+}
+.box-3 {
+    background-image: url("../images/jpg/Paralax-image_three.jpg");
+    background-attachment: fixed;
+    width: 100%;
+    max-width: 3997px;
+    block-size: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+}
+.box-4 {
+    background-image: url("../images/jpg/Paralax-image_four.jpg");
+    background-attachment: fixed;
+    width: 100%;
+    max-width: 3997px;
+    block-size: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: cover;
+}
+.erty {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(18, 52, 86);
+}
